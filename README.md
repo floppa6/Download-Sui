@@ -2,8 +2,6 @@
 ![](https://img.shields.io/github/forks/marioggil/DownloadSui.svg?style=plastic)
 ![](https://img.shields.io/github/issues/marioggil/DownloadSui.svg?style=plastic)
 ![](https://img.shields.io/github/stars/marioggil/DownloadSui.svg?style=plastic)
-
-
 # Project Sui
 
 This is a script to download the electricity part of the "Single Public Services Information System, administered by the Superintendence of Home Public Services", This system integrates the financial, administrative and operational part of the services in Colombia [**here**](http://www.sui.gov.co)
